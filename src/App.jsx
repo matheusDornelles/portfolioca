@@ -2,6 +2,13 @@ import './App.css'
 
 const projects = [
   {
+    tag: 'Web App',
+    title: 'Destravia',
+    description:
+      'English conversation practice platform with short, practical text and voice conversations to help learners build confidence.',
+    link: 'https://destravia-staging.vercel.app/',
+  },
+  {
     tag: 'Research',
     title: 'Territoria Fraud Detection',
     description:
